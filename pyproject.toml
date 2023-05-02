@@ -22,6 +22,7 @@ disable = "W3101, R0022, W1201, W1203, R0401, W0707, W0221, W0603, R0801, R1735,
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.10"
+torch = "~1.13.1"
 ipywidgets = "^7.5.1"
 jinja2 = "^3.0.0"
 jupyter = "^1.0.0"
